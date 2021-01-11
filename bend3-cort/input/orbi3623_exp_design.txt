@@ -1,0 +1,11 @@
+label	condition	replicate
+LFQ.intensity.01	MED	1
+LFQ.intensity.02	MED	2
+LFQ.intensity.03	MED	3
+LFQ.intensity.04	MED	4
+LFQ.intensity.05	MED	5
+LFQ.intensity.06	CORT	1
+LFQ.intensity.07	CORT	2
+LFQ.intensity.08	CORT	3
+LFQ.intensity.09	CORT	4
+LFQ.intensity.10	CORT	5

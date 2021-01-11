@@ -1,0 +1,33 @@
+gene_name,comment,group,localization
+Tjp1,ZO-1,tight,intracell
+Tjp2,ZO-2,tight,intracell
+Tjp3,ZO-3,tight,intracell
+Jam2,,tight,surface
+Jam3,,tight,surface
+F11r,JAM1,tight,surface
+Ocln,Occludin,tight,surface
+Cldn5,,tight,surface
+Pard3,Par-3,tight,intracell
+Pard3b,,tight,intracell
+Pard6a,,tight,intracell
+Pard6b,,tight,intracell
+Pard6g,,tight,intracell
+Afdn,afadin,tight,intracell
+Cgnl1,paracingulin,tight,intracell
+Cgn,cingulin,tight,intracell
+Tjap1,"barmotin, 7H6",tight,intracell
+Rab3b,,tight,intracell
+Rab13,,tight,intracell
+Prkcz,,tight,intracell
+Prkci,,tight,intracell
+Ybx3,"ZONAB, TF",tight,intracell
+Cdh5,VE-cadherin,adherens,surface
+Ctnna1,alpha-catenin,adherens,intracell
+Ctnnb1,beta-catenin,adherens,intracell
+Jup,plakoglobin,adherens,intracell
+Ctnnd1,delta-catenin,adherens,intracell
+Vcam1,,adhesion,surface
+Cd44,,adhesion,surface
+Cxcl12,,chemokine,secreted
+Ceacam1,,adhesion,surface
+Jcad,cadherin-5 associated,adherens,intracell
